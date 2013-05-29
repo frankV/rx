@@ -1,9 +1,0 @@
-{
-  "invalid": true,
-
-  "schema" : {
-    "type"    : "//map",
-    "values"  : "//any",
-    "unknown" : "this will cause things to explode"
-  }
-}
